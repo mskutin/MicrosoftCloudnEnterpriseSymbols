@@ -1,0 +1,36 @@
+
+
+===========2015_10_12=============
+Added new services/features
+  Azure IOT Hub
+  Azure Datalake
+  Azure VPN Gateway
+  Service Fabric 
+  Azure DNS
+  Azure load balancer. Old one changed to Azure load balancer (automatic).
+  Resource Group
+  Microsoft Windows symbol
+  Microsoft Intune and System Center symbols added
+
+Bugs fixed or changes
+  Virtual Machine Container - removed monitor symbol to make simpler
+  Virtual network box. Didn't work right when stretched.  Made a smart version and a simple version
+  Excel icon had "Exel" for the text.
+  Azure Virtual Network changed to look better
+  Microsoft Azure icon color changed to blue to be consistent
+  "Code file" symbol changed to have func() in it.  Old code file with {} now used for   DocumentDB file to be consistent with other symbols. 
+
+
+Added BONUS area
+ 3D Blueprint Visio Template
+ Windows Server Service Containers PowerPoints
+ Patterns and Practices icons PNG form
+
+Added Macro Visio template 
+   (CSI_Art_Template_Save_v2.31) so you can export you own art using a single keystoke. (SHIFT-CTRL-A)  
+
+Corrected
+
+Known bugs
+  DNS symbol lines are not clean. 
+
